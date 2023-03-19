@@ -1,0 +1,142 @@
+.div0{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img{
+    width: 280px;
+    height: 200px;
+}
+
+.fon{
+    background-image:url("fon1.jpg") ;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+.h1{
+    font-size: 50px;
+    color: rgb(0, 0, 255);
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.589);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+img:hover{
+    width: 320px;
+    height: 240px;
+}
+
+.div1:hover{
+    border: 1px solid black;
+}
+
+.footer{
+    background-color: blue;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-image: url("fon1.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.nav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-image: url("cq5.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.div2{
+    margin-right: 15px;
+}
+
+a:hover{
+    color: blue;
+}
+
+.g-div3{
+    background-image: url(cq5.jpg);
+    padding-top: 280px;
+    padding-bottom: 280px;
+}
+
+.g-div4{
+    margin-left: 50px;
+}
+
+.button{
+    padding: 15px;
+    background-color: rgb(32, 32, 207);
+    color: white;
+    border:none;
+}
+
+.g-h1{
+    color:white;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.g-div5{
+    flex-direction: row;
+    display: flex;
+}
+
+.g-div6{
+    background-image: url(cq5d.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.g-div7{
+    background-image: url(cq5dam.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.button2{
+    padding: 15px;
+    width: 140px;
+    background-color: rgb(32, 32, 207);
+    color: white;
+    border:none;
+}
+
+.button3{
+    padding: 15px;
+    width: 140px;
+    background-color: rgb(32, 32, 207);
+    color: white;
+    border:none;
+}
+
+.g-h2{
+    color:white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.g-div8{
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
